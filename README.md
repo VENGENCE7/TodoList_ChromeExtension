@@ -17,12 +17,13 @@
 
 
 # TodoList_ChromeExtension
-+ Chrome Extension to help you avoid distractions and motivate you to keep working. Used the latest **manifest V3**.
-  + Created it in order to _avoid my distractions_ and prevent me from accessing these **_social media &amp; Ott platforms_**.
-    + **Hopefully it Helps you too :)**.
-  + Provided with some Motivation Quotes to influence you to help you in firming your decision. 
++ Chrome Extension to help you to create **task/goals** to increase productivity and divide your working into small tasks. 
++ Used the latest **manifest V3**.
++ **React Chrome extension**
++ Uses Local storage, hence your progress isnt lost.
++ CRUD app
 
- &ensp; **_To use it : just enable it_**
+ &ensp; **_To use it : just click it_**
 
 <br />
 
@@ -37,8 +38,7 @@
         </ul>
     <li><a href="#site-block-list">Sites it will block</a></li>
         <ul>
-            <li><a href="#social-media-sites">Social Media Sites</a></li>
-            <li><a href="#ott-sites">OTT Sites</a></li>
+            <li><a href="#list-operations">List Operations</a></li>
         </ul>
     <li><a href="#getting-started">Getting Started</a></li>        
         <ul>
@@ -56,23 +56,21 @@
 
 <!-- Extension Preview -->
 ## Extension Preview
-Here you can clearly see that on accessing Prime Video & Instagram, it displays this webpage with quotes for motivation and the site name ur accessing.
-
-<br />
-
-### HF-2.0
-+ New Shooting Stars Animation
-+ Gave it a more __pleasant and modern Look__
-
-<br />
-
+Here you can clearly see how the extension looks .
 
 
 <br />
 
-### HF-1.0
-+ Here there is a __Ghost animation__ which keeps bouncing Up and Down
-+ "Keep Going" text has flaming animation
+<div align=center><img src="TodoList_CE_Images/CE_preview.png" alt="image"></div>
+
+
+<br />
+
+
+
+<br />
+
+
 
 <br />
 
@@ -85,30 +83,15 @@ Here you can clearly see that on accessing Prime Video & Instagram, it displays 
 ## Site Block List
 All the below sites will be inaccessible:
 
-<!-- Social Media Sites -->
-### Social Media Sites
-- Facebook
-- Twitter
-- Instagram
-- Snapchat
-- Reddit
-- Tiktok
-- Flickr
-- Pinterest
-- Discord
+<!-- List Operations -->
+### List Operations
 
-<!-- OTT Sites -->
-### OTT Sites
-- Netflix
-- Prime Video
-- Disney +
-- Voot
-- Zee5
-- Sony Liv
-- MX Player
-- Jio Cinema
-- EROS Now
-- Alt Balaji
+Possible operations in this CE:
+- Create Todo
+- Read Todo
+- Update Todo
+- Delete Todo
+- Change State of Todo
 
 
  <p align="right">(<a href="#top">Back to top</a>)</p>
