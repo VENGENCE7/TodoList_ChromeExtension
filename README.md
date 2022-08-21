@@ -23,7 +23,7 @@
 + Uses Local storage, hence your progress isnt lost.
 + CRUD app
 
- &ensp; **_To use it : just click it_**
+ &ensp; **_To use it : just click it_ and follow the UI**
 
 <br />
 
@@ -32,14 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#extension-preview">Extension Preview</a></li>
-       <ul>
-            <li><a href="#hf-10">HF-1.0</a></li>
-            <li><a href="#hf-20">HF-2.0</a></li>
-        </ul>
-    <li><a href="#site-block-list">Sites it will block</a></li>
-        <ul>
-            <li><a href="#list-operations">List Operations</a></li>
-        </ul>
+    <li><a href="#list-operations">List Operations</a></li>    
     <li><a href="#getting-started">Getting Started</a></li>        
         <ul>
             <li><a href="#1-clone-the-repo">Clone The Repo</a></li>
@@ -49,6 +42,7 @@
         <ul>
             <li><a href="#loading-the-extension-in-browser">Load Extension</a></li>
         </ul>
+    <li><a href="#contact">Contact me</a></li>
   </ol>
 </details>
 
@@ -61,32 +55,31 @@ Here you can clearly see how the extension looks .
 
 <br />
 
-<div align=center><img src="TodoList_CE_Images/CE_preview.png" alt="image"></div>
-
-
-<br />
-
-
+<div align=center><img src="TodoList_CE_images/CE_preview.png" alt="image"></div>
 
 <br />
 
+<div align=center><img src="TodoList_CE_images/CE_listed.png" alt="image"></div>
 
+<br />
+
+<div align=center><img src="TodoList_CE_images/CE_update.png" alt="image"></div>
 
 <br />
 
+<div align=center><img src="TodoList_CE_images/CE_listed2.png" alt="image"></div>
 
 <br />
+
+<div align=center><img src="TodoList_CE_images/CE_listed3.png" alt="image"></div>
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
-<!-- Site Block List -->
-## Site Block List
-All the below sites will be inaccessible:
 
 <!-- List Operations -->
-### List Operations
+## List Operations
 
-Possible operations in this CE:
+Possible operations in this Chrome Extension:
 - Create Todo
 - Read Todo
 - Update Todo
@@ -117,27 +110,36 @@ Possible operations in this CE:
 <!-- Download and Extract -->
 ### 2: Download and Extract
  + Download the extension from <a href="https://github.com/VENGENCE7/TodoList_ChromeExtension/releases"> releases </a>.
- + Download the on you need
-    + There are two versions:
-      + HF-1.0
-      + HF-1.0
+ + Download the one you need
+ + Options Avaialable:
+    - **.tar.xz**
+    - **.zip**
+    - **.7z**
+ + Extract the particualr compressed file
+    
  
  
 <!-- Installations -->
 ## Installation
 
 + Go to the below _Extensions_ page using the address below
+ + For Chrome
 ```
 chrome://extensions/
 ```
 
+ + For brave
+ ```
+brave://extensions/
+```
+
 **OR**
 
-1. Open `Chrome Browser`.
-2. Go to the `Three dots` on _top Right_.
-3. We need to go to `Select More Tools`.
-4. Choose `Extensions` from the browser menu.
-5. It redirects to the extensions page in Chrome. 
+1. Open `Chrome Browser` or `Brave Browser`.
+2. Go to the `jigsaw-puzzle icon`- which is the extensions icon.
+3. Manage extensions
+
+
 
 <!-- Load the Extension -->
 ### Loading the Extension in browser
@@ -150,6 +152,17 @@ chrome://extensions/
 
 
  <p align="right">(<a href="#top">Back to top</a>)</p>
+ 
+ <!-- CONTACT -->
+## Contact
+
+Bhavish Anand- bhavish007anand@gmail.com
+
+Project Link: [https://github.com/VENGENCE7/TodoList](https://github.com/VENGENCE7/TodoList_ChromeExtension)
+
+Github Profile : [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
  
 
 <!-- MARKDOWN LINKS & IMAGES -->
